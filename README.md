@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lord295
 - 👀 I’m interested in mobile app development
 - 🌱 I develop android apps in android studio
-- 💞️ I’m learning cross platforms like react native and fluter, for developing android apps
+- 💞️ I’m learning cross platforms also like react native and fluter, for developing android apps
 - 📫 How to reach me ...hassanzulfiqarali2000@gmail.com....reach me through mail
 
 <!---
